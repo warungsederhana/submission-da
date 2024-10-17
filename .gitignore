@@ -1,4 +1,4 @@
 /Pipfile
 /Pipfile.lock
-/data/
+/data/*.csv
 /dashboard/main_data.csv
